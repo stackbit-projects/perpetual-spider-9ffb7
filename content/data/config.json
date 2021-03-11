@@ -7,7 +7,7 @@
     "mode": "light",
     "base_font": "sans-serif",
     "header": {
-        "title": "Inspira H",
+        "title": "Inspira Header",
         "logo": "images/Inspira Villages logo blck_sm.png",
         "logo_alt": "Event logo",
         "has_primary_nav": false,
