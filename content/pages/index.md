@@ -14,7 +14,7 @@ sections:
     padding_bottom: large
     background_color: none
     background_image: images/1st rendering_cafe+houses_final.jpg
-    background_image_opacity: 5
+    background_image_opacity: 90
     background_image_size: cover
   - type: grid_section
     grid_items:
