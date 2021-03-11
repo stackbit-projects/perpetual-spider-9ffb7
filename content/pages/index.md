@@ -16,7 +16,6 @@ sections:
     background_image: images/1st rendering_cafe+houses_final.jpg
     background_image_opacity: 15
     background_image_size: cover
-    image: images/1st rendering_cafe+houses_final.jpg
   - type: grid_section
     grid_items:
       - title: 2 Days
