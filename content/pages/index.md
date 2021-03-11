@@ -3,7 +3,9 @@ title: Home
 sections:
   - type: hero_section
     title: a new kind of living
-    subtitle: Conference for Creative People
+    subtitle: >-
+      Regenerative smart villages designed around  healthy living, holistic
+      sustainability, and local resilience.
     content: '**April 14 - 16, 2021**'
     actions:
       - label: Get Your Ticket Today!
