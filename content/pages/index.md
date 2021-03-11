@@ -7,10 +7,7 @@ sections:
       Regenerative smart villages designed around  healthy living, holistic
       sustainability, and local resilience.
     content: '**April 14 - 16, 2021**'
-    actions:
-      - label: Get Your Ticket Today!
-        url: /about
-        style: primary
+    actions: []
     align: center
     padding_top: large
     padding_bottom: large
