@@ -30,7 +30,7 @@
             }
         ],
         "has_anncmnt": false,
-        "anncmnt_is_home_only": true
+        "anncmnt_is_home_only": false
     },
     "footer": {
         "has_primary_nav": false,
